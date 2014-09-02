@@ -1,0 +1,4 @@
+G:\GitHub\Algorithm-GeneralP\Algorithm-GeneralP\bin\Debug\Algorithm-GeneralP.dll
+G:\GitHub\Algorithm-GeneralP\Algorithm-GeneralP\bin\Debug\Algorithm-GeneralP.pdb
+G:\GitHub\Algorithm-GeneralP\Algorithm-GeneralP\obj\Debug\Algorithm-GeneralP.dll
+G:\GitHub\Algorithm-GeneralP\Algorithm-GeneralP\obj\Debug\Algorithm-GeneralP.pdb

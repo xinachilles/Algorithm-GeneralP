@@ -1,0 +1,7 @@
+G:\GitHub\Algorithm-GeneralP\TestProject1\bin\Debug\TestProject1.dll
+G:\GitHub\Algorithm-GeneralP\TestProject1\bin\Debug\TestProject1.pdb
+G:\GitHub\Algorithm-GeneralP\TestProject1\bin\Debug\Algorithm-GeneralP.dll
+G:\GitHub\Algorithm-GeneralP\TestProject1\bin\Debug\Algorithm-GeneralP.pdb
+G:\GitHub\Algorithm-GeneralP\TestProject1\obj\Debug\TestProject1.csprojResolveAssemblyReference.cache
+G:\GitHub\Algorithm-GeneralP\TestProject1\obj\Debug\TestProject1.dll
+G:\GitHub\Algorithm-GeneralP\TestProject1\obj\Debug\TestProject1.pdb
